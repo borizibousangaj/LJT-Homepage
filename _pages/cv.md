@@ -1,64 +1,40 @@
 ---
-layout: archive
-title: "CV"
+layout: page
+title: CV
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+# Curriculum Vitae: Li Jiantong (LJT)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Contact Information
+- **Email**: ljt@university.edu
+- **Phone**: +1 (555) 123-4567
+- **Location**: San Francisco, CA, USA
+- **Google Scholar**: https://scholar.google.com/citations?user=ljt123
+- **ORCID**: https://orcid.org/0000-0001-2345-6789
+- **GitHub**: https://github.com/borizibousangaj
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Academic Background
+- **2018-2022**: B.S. in Computer Science, Tsinghua University, GPA 3.9/4.0
+- **2022-present**: Ph.D. Candidate in Computer Science, Stanford University, Advisor: Prof. Jane Smith
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Experience
+- **2021-2022**: Undergraduate Research Assistant, Tsinghua University AI Lab: Worked on natural language processing research
+- **2022-present**: Ph.D. Researcher, Stanford University Human-Computer Interaction Lab: Focus on accessible AI systems for low-resource communities
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Publications
+### Conference Papers
+1. "Accessible AI for Rural Education: A Case Study" — *Proceedings of the ACM CHI Conference on Human Factors in Computing Systems*, 2024.  
+   **Li Jiantong**, Jane Smith
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+2. "Low-Resource Language Model Fine-tuning" — *Proceedings of the ACL Annual Conference*, 2023.  
+   **Li Jiantong**, Bob Johnson
+
+3. "Neural Network Interpretability for NLP" — *Proceedings of the EMNLP Conference*, 2022.  
+   **Li Jiantong**, Alice Wang
+
+## Skills
+- **Programming**: Python, Java, C++, JavaScript, TypeScript
+- **Frameworks**: PyTorch, TensorFlow, React, Node.js
+- **Research**: Natural Language Processing, Machine Learning, Human-Computer Interaction
+- **Tools**: Git, Docker, Jupyter, LaTeX
